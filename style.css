@@ -1,0 +1,55 @@
+body {
+    font-family: fantasy;
+    background-color: lightblue;
+}
+
+
+h1 {
+    color: red;
+    background-color: cadetblue;
+    text-align: center;
+    border: 2px solid blue;
+    border-radius: 30px;
+}
+
+h2 {
+    color: blue;
+    background-color: rgb(121, 109, 94);
+}
+
+h3 {
+    color: green;
+}
+
+p {
+    font-style: oblique;
+}
+
+iframe {
+    width: 200px;
+    height: 200px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 32px;
+    color: rebeccapurple;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: lower-roman;
+}
